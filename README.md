@@ -1,1 +1,1 @@
-# hello this is my repo for my stats lab
+# hello
